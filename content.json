@@ -1,0 +1,18 @@
+[{"mobileNo":"1234567892",
+  "name":"chaitanya",
+  "age":21,
+  "job":"dev"
+},{"mobileNo":"7234567892",
+  "name":"shatakshi",
+  "age":21,
+  "job":"dev"
+},{"mobileNo":"5234567892",
+  "name":"Billo",
+  "age":21,
+  "job":"lover"
+},{"mobileNo":"5434567892",
+  "name":"mamba",
+  "age":23,
+  "job":"dev"
+}
+  ]
